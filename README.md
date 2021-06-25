@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jupiterh4x
+- 👀 I’m interested in Python, Cybersecurity, networks, linux
+- 🌱 I’m currently learning everything since I am still not good at anything
+- 💞️ I need to build my portfolio. For real
